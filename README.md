@@ -76,6 +76,10 @@
 
 ###
 
+<h2>GitHub Stats</h2>
+
+###
+
 ![PedroHCN's Stats](https://github-readme-stats.vercel.app/api?username=PedroHCN&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![PedroHCN's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHCN&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
