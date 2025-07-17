@@ -1,15 +1,5 @@
 <h1 align="center">Olá mundo! Meu nome é Pedro</h1>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroHCN/pedroHCN/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroHCN/pedroHCN/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroHCN-git/PedroHCN-git/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h2 align="left">Sobre min</h2>
 
 ###
